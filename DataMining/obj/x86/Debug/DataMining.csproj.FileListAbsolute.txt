@@ -1,0 +1,4 @@
+c:\users\simone\documents\visual studio 2010\Projects\DataMining\DataMining\bin\Debug\DataMining.exe
+c:\users\simone\documents\visual studio 2010\Projects\DataMining\DataMining\bin\Debug\DataMining.pdb
+c:\users\simone\documents\visual studio 2010\Projects\DataMining\DataMining\obj\x86\Debug\DataMining.exe
+c:\users\simone\documents\visual studio 2010\Projects\DataMining\DataMining\obj\x86\Debug\DataMining.pdb
